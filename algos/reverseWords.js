@@ -16,7 +16,7 @@ function reverseWords(string) {
         reversedWordsArr.push(reverseWord);
    })
 
-   console.log(reversedWordsArr)
+
     
    return reversedWordsArr.join(' ');
 
